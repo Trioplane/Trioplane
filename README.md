@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Trioplane 
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning discord.py
+- 👀 I’m interested in HTML, CSS, JS, and C++ 
+- 🌱 I’m currently learning JS and C++
 - 💞️ I’m looking to collaborate on no one lol
-- 📫 How to reach me nono i will not do anything
+- 📫 How to reach me:
+-   Discord: Trplnr#8230
+-   Gmail: triopane30@gmail.com
 
 <!---
 Trioplane/Trioplane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
